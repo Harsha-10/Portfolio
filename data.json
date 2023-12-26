@@ -1,0 +1,343 @@
+{
+  "main": {
+    "name": "Harsha",
+    "shortDesc": "  I'm a Full Stack Developer based in India with a passion for crafting innovative solutions. Actively contributing to open-source projects.",
+    "titles": [
+      "Frontend Developer",
+      "Backend Developer",
+      "MERN stack Developer",
+      "open source contributor"
+    ],
+    "heroImage": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/41844.jpg?alt=media",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/profile pic.jpg?alt=media",
+    "aboutImageCaption": "I make Web Apps 🚀",
+    "title": "Full Stack Developer",
+    "about": "Full Stack Developer based in India with a passion for crafting innovative solutions. Actively contributing to open-source projects.",
+    "resumeUrl": "https://drive.google.com/file/d/1SAl4MJL-Rx0d0B0anon8tvMOrWjyQS1i/view"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/harshodai-divvela-44043a223"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/harsha-10"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/__harsha9949__"
+    },
+    {
+      "icon": "FaXTwitter",
+      "link": "https://x.com/Harsha102004?t=VK-7l3ic0HjYW8yY5C4bKw&s=08"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Other"
+    },
+    {
+      "name": "TypeScript",
+      "image": "https://img.icons8.com/color/144/typescript.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "React JS",
+      "image": "https://img.icons8.com/office/80/react.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "NextJS",
+      "image": "https://img.icons8.com/color/144/nextjs.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "https://img.icons8.com/color/144/tailwind_css.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Material UI",
+      "image": "https://img.icons8.com/color/144/material-ui.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML5",
+      "image": "https://img.icons8.com/color/144/html-5--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS3",
+      "image": "https://img.icons8.com/color/144/css3.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.icons8.com/color/144/bootstrap--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "JQuery",
+      "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Redux",
+      "image": "https://img.icons8.com/color/144/redux.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node JS",
+      "image": "https://img.icons8.com/fluency/144/node-js.png",
+      "category": "Backend"
+    },
+    {
+      "name": "ExpressJS",
+      "image": "https://img.icons8.com/ios/50/express-js.png",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png",
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/color/144/mysql-logo.png",
+      "category": "Backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "image": "https://img.icons8.com/color/144/postgreesql.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Mongoose",
+      "image": "https://img.icons8.com/color/144/mongoose.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Socket.io",
+      "image": "https://img.icons8.com/ios-filled/50/000000/lightning-bolt--v1.png",
+      "category": "Backend"
+    },
+    {
+      "name": "PostMan",
+      "image": "https://img.icons8.com/dusk/64/postman-api.png",
+      "category": "Backend"
+    },
+    {
+      "name": "Java",
+      "image": "https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png",
+      "category": "Other"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/color/144/python--v1.png",
+      "category": "Other"
+    },
+    {
+      "name": "NumPy",
+      "image": "https://img.icons8.com/color/144/numpy.png",
+      "category": "Other"
+    },
+    {
+      "name": "Pandas",
+      "image": "https://img.icons8.com/color/144/pandas.png",
+      "category": "Other"
+    },
+    {
+      "name": "Matplotlib",
+      "image": "https://img.icons8.com/pulsar-color/96/tangent.png",
+      "category": "Other"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/git.png",
+      "category": "Other"
+    },
+    {
+      "name": "Vercel",
+      "image": "https://img.icons8.com/material-sharp/96/give-way--v2.png",
+      "category": "Other"
+    },
+    {
+      "name": "GitHub Pages",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Other"
+    },
+    {
+      "name": "Docker",
+      "image": "https://img.icons8.com/color/144/docker.png",
+      "category": "Other"
+    },
+    {
+      "name": "Kubernetes",
+      "image": "https://img.icons8.com/color/144/kubernetes.png",
+      "category": "Other"
+    },
+    
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/ios/100/linux.png",
+      "category": "Other"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Google-Docs",
+      "techstack": "HTML5, CSS3 , JavaScript , React JS , MongoDB , Socket.io",
+      "category": "Full Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/google-docs.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/google-docs",
+        "visit": "https://google-docs-ylsh.onrender.com/"
+      }
+    },
+    {
+      "name": "ToDoList",
+      "techstack": "HTML5, CSS3 , JavaScript, EJS ,MongoDB ",
+      "category": "Full Stack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/todolist.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/Todolist",
+        "visit": "https://todoist-app-60to.onrender.com/"
+      }
+    },
+    {
+      "name": "YouTube Clone",
+      "techstack": "HTML5, CSS3 , JavaScript , React JS , MUI , RapidAPI",
+      "category": "API",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/youtube-clone.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/youtube-clone/",
+        "visit": "https://incomparable-monstera-85f3d5.netlify.app/"
+      }
+    },
+    {
+      "name": "Code Editor",
+      "techstack": "HTML5, CSS3 , JavaScript , React JS , Monaco Editor , RapidAPI",
+      "category": "API",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/code-editor.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/code-editor",
+        "visit": "https://code-editor-app-chi.vercel.app/"
+      }
+    },
+    {
+      "name": "URL Shortener",
+      "techstack": "HTML5, CSS3 , JavaScript , React JS , API , MUI",
+      "category": "API",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/url-shortener.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/url-shortener",
+        "visit": "https://url-shortener-nine-ruby.vercel.app/"
+      }
+    },
+    {
+      "name": "DrawPad",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "category": "Basic",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/Drawing app.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/Drawing-App",
+        "visit": "https://drawing-app-harsha-10.vercel.app/"
+      }
+    },
+    {
+      "name": "Simon Game",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Basic",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/simon game.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/simongame",
+        "visit": "https://playsimongame.vercel.app/"
+      }
+    },
+    {
+      "name": "Drum Kit",
+      "techstack": "HTML5, CSS3, JavaScript",
+      "category": "Basic",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/Drum Kit.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/Drumkit",
+        "visit": "https://drumkit-pearl.vercel.app/"
+      }
+    },
+    {
+      "name": "Instamojo",
+      "techstack": "HTML5, CSS3",
+      "category": "Basic",
+      "image": "https://firebasestorage.googleapis.com/v0/b/harsha-10-portfolio.appspot.com/o/Instamojo.png?alt=media",
+      "links": {
+        "code": "https://github.com/Harsha-10/Instamojo",
+        "visit": "https://instamojo.vercel.app/"
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "Sri Chaitanya school,Chinatadepalli",
+      "degree": "CBSE",
+      "duration": "2018 - 2019",
+      "desc": ["schooling up to 10th standard with 88.6%"]
+    },
+    {
+      "institute": "Tirumala Junior College,Katheru",
+      "degree": "Intermediate",
+      "duration": "2019 - 2021",
+      "desc": [
+        "completed my Intermediate with 96% in MPC stream"
+      ]
+    },
+    {
+      "institute": "Vellore Institute of Technology,Chennai",
+      "degree": "Btech CSE",
+      "duration": "2021 present",
+      "desc": [
+        "Currently pursuing Btech in CSE with 8.63 CGPA",
+        "Studying in 3rd year"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Linux Club, VIT Chennai",
+      "position": "Management Team Member",
+      "duration": "2021 - 2023",
+      "desc": [
+        "Worked as a management team member for multiple technical events."
+      ]
+    },
+    {
+      "company": "CodersCave",
+      "position": "Frontend Developer",
+      "duration": "Sept - Oct 2023",
+      "desc": [
+        "Made some cool projects with frontend technologies.",
+        "Worked on APIs"
+      ]
+    }
+  ]
+}
